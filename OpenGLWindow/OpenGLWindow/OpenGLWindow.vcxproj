@@ -75,7 +75,7 @@
     <LibraryPath>E:\workspace\glfw\glfw-3.4\build\src\Debug;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>E:\workspace\vs\opengl\glad;E:\workspace\vs\opengl\glfw\include;$(IncludePath)</IncludePath>
+    <IncludePath>E:\workspace\vs\opengl\shader;E:\workspace\vs\opengl\glad;E:\workspace\vs\opengl\glfw\include;$(IncludePath)</IncludePath>
     <LibraryPath>E:\workspace\vs\opengl\glfw\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
